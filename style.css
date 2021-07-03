@@ -30,6 +30,15 @@ h1{
     margin-bottom: 20px;
     margin-left: 25%;
 }
+.blog4{
+    background-color: deepskyblue;
+    border: 20px solid black;
+    border-radius: 10px;
+    padding: 20px 20px;
+    width: 50%;
+    margin-bottom: 20px;
+    margin-left: 25%;
+}
 .author-name{
     color: yellow;
 }
